@@ -29,7 +29,8 @@ https://ayeshabibi-tech.github.io/Daily-Planner/
 
 ## Screenshot
 ![Daily Planner Screenshot](myDailyPlanner.png)
-![Daily Planner Screenshot](working example.png)
+
+![Daily Planner Screenshot](workingexample.png)
 
 ## Purpose of the Project
 
