@@ -27,6 +27,9 @@ A simple and user-friendly web application that helps users manage their daily t
 
 https://ayeshabibi-tech.github.io/Daily-Planner/
 
+## Screenshot
+![Daily Planner Screenshot](myDailyPlanner.png)
+
 ## Purpose of the Project
 
 This project was developed as a Web Engineering course project. The goal is to provide a simple daily planning application that combines task management with prayer tracking to encourage productivity and spiritual discipline.
